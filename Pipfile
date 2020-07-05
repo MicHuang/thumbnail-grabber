@@ -10,6 +10,7 @@ pylint = "*"
 fastapi = "*"
 uvicorn = "*"
 jinja2 = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
